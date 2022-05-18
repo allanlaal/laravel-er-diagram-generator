@@ -1,5 +1,5 @@
 {
-    "name": "beyondcode/laravel-er-diagram-generator",
+    "name": "allanlaal/laravel-er-diagram-generator",
     "description": "Generate ER diagrams from your Laravel models.",
     "keywords": [
         "beyondcode",
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.3 || ^8.0",
+        "php": "^7.3|^8.0|^8.1",
         "doctrine/dbal": "^3.0",
         "phpdocumentor/graphviz": "^2.0",
         "nikic/php-parser":"^4.0"
